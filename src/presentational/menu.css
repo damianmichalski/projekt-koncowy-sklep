@@ -1,0 +1,74 @@
+.menu {
+  margin: 10px 0 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 30px;
+}
+
+.logoArea {
+  width: 80px;
+  height: 100%;
+}
+
+.logoPicture {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.menuArea {
+  display: flex;
+  justify-content: flex-end;
+  height: 100%;
+  flex: 2;
+}
+
+.menuList {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.menuItem {
+  margin: 0 10px;
+  height: 12px;
+  opacity: 0.5;
+  color: #000000;
+  font-family: "Myriad Pro";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-transform: uppercase;
+  letter-spacing: 6.4px;
+  cursor: pointer;
+}
+
+.menuItem--Active {
+  opacity: inherit;
+}
+
+.cartIconArea {
+  position: relative;
+}
+
+.cartIcon {
+  line-height: 25px;
+  height: 40px;
+}
+
+.productsInCart {
+  letter-spacing: 0;
+  color: #000000;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #d3cdc9;
+  position: absolute;
+  bottom: -30px;
+  left: 10px;
+  opacity: 0.7;
+  text-align: center;
+  line-height: 35px;
+}

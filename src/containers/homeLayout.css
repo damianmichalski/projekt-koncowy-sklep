@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.pageContainer {
+  display: flex;
+  width: 100%;
+  min-height: 850px;
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.subpageArea {
+  display: flex;
+  flex-direction: column;
+  width: 100%
+}
+
+.subpageTitle {
+  margin-bottom: 20px;
+}
+
+.notFoundTextArea {
+  position: absolute;
+  cursor: pointer;
+  border: solid 2px white;
+  border-radius: 10px;
+  top: 550px;
+  background-color: white;
+  height: 30px;
+}
+
+@media(min-width: 426px) and (max-width: 768px) {
+  #root {
+    width: 800px;
+    padding: 0 20px;
+  }
+}
+
+@media(max-width: 425px) {
+  #root {
+    width: 600px;
+    padding: 0 20px;
+  }
+}

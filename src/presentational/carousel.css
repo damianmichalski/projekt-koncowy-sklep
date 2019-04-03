@@ -1,0 +1,22 @@
+.carouselImage {
+  height: 235px;
+  object-fit: contain;
+}
+
+.carouselIconImg {
+  background-color: darkgrey
+}
+
+.carousel-indicators li {
+  border: solid 1px black;
+  border-radius: 5px;
+}
+
+.carouselProduct {
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgba(236, 228, 228, 0.5);
+  line-height: 30px;
+  color: black;
+  font-weight: bold;
+}

@@ -1,0 +1,74 @@
+.product {
+  width: 300px;
+  height: 400px;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+  position: relative;
+  transition: transform 1s ease-in-out;
+}
+
+.product:hover {
+  transform: scale(1.1);
+}
+
+.productPictureArea {
+  margin-top: 40px;
+  height: 250px;
+  width: 230px;
+  overflow: hidden;
+}
+
+.productPicture {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.productTextArea {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.productName {
+  margin: 2px 5px;
+  color: #000000;
+  font-family: "Myriad Pro";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.9px;
+}
+
+.productPrice {
+  margin: 2px 5px;
+  opacity: 0.7;
+  color: #000000;
+  font-family: "Myriad Pro";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.9px;
+}
+
+.soldArea {
+  position: absolute;
+  top: -200px;
+  left: -15px;
+}
+
+.soldArea--hidden {
+  display: none;
+}
+
+.sold {
+  transform: rotate(-45deg);
+  font-size: 55px;
+  border-radius: 5px;
+  background-color: rgba(236, 228, 228, 0.5);
+  color: black;
+}

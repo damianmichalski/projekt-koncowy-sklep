@@ -1,0 +1,48 @@
+.productListArea {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+}
+
+.productsList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.pages {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.pagesList {
+  display: flex;
+  list-style: none;
+}
+
+.pagesItem {
+  margin: 0 5px;
+  width: 24px;
+  height: 17px;
+  opacity: 0.4;
+  color: #000000;
+  font-family: "Myriad Pro";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 1.2px;
+}
+
+.pagesItem--active {
+  opacity: 1;
+}
+
+.pageArrowRight {
+  line-height: 28px;
+  opacity: 0.4;
+  margin: 0 5px;
+}

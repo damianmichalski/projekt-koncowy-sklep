@@ -1,0 +1,151 @@
+[{
+    "id": "5c46211473b20bdc7158a391",
+    "name": "okulary",
+    "price": 10.99,
+    "picture": "/img/1.jpg",
+    "description": "Eiusmod tempor officia incididunt eu. Laboris mollit ex commodo velit eu nulla voluptate officia. Do nulla laborum eu cillum aliquip irure qui sint enim ut do.",
+    "inMagazine": 11,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "5c462114d7b4cffdbb3bcb81",
+    "name": "zapalniczka",
+    "price": 5.99,
+    "picture": "/img/2.jpg",
+    "description": "Ad magna adipisicing ullamco duis id sit. Veniam labore proident nostrud minim mollit. Anim id amet nostrud id qui. Consequat excepteur dolor voluptate nostrud velit velit quis.",
+    "inMagazine": 12,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "5c462114c79a3b1cd7063afb",
+    "name": "perfum",
+    "price": 203.99,
+    "picture": "/img/3.jpg",
+    "description": "Veniam deserunt laborum dolor do exercitation ut deserunt. Laborum eiusmod ut aute nisi veniam. Excepteur et excepteur ullamco commodo ut quis. Duis do reprehenderit id eu qui tempor",
+    "inMagazine": 8,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "5c4621142aab069708c053fd",
+    "name": "zawieszka",
+    "price": 3.99,
+    "picture": "/img/4.jpg",
+    "description": "Officia consectetur culpa cillum magna pariatur amet ut. Tempor minim nostrud laborum ipsum esse. Ut quis voluptate adipisicing ullamco occaecat cillum deserunt labore Lorem consequat.",
+    "inMagazine": 22,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "5c4621142aab02dt38c053fa",
+    "name": "aparat",
+    "price": 999.99,
+    "picture": "/img/5.jpg",
+    "description": "Minim aute laboris mollit aliquip sit do eiusmod. Id culpa sint aute qui ex nostrud incididunt proident. Excepteur reprehenderit cillum labore dolor sunt in esse.",
+    "inMagazine": 5,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "z57nm21142aab02dt38c098hsa",
+    "name": "zegarek",
+    "price": 199.99,
+    "picture": "/img/6.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 8,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "p9jkj7ffsdfbmj863234fdf42",
+    "name": "zegarek",
+    "price": 129.99,
+    "picture": "/img/7.jpeg",
+    "description": "Eiusmod laborum deserunt aute quis ex. Minim esse occaecat id veniam do. Et id voluptate ex officia excepteur et. Anim anim officia reprehenderit eu incididunt veniam deserunt nisi.",
+    "inMagazine": 7,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "bgt5670kjgsss354gjydv6579ks",
+    "name": "pomadka",
+    "price": 19.99,
+    "picture": "/img/8.jpeg",
+    "description": "Duis esse amet irure id esse aliquip amet aute culpa irure anim laborum. Ipsum est ad et excepteur. Aute eiusmod consectetur ipsum et dolore tempor.",
+    "inMagazine": 13,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "bgt5670kjgm8ih5543dfby92ks",
+    "name": "aparat",
+    "price": 199.99,
+    "picture": "/img/9.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 12,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "zxdd4568ihgd457iknfdf679fdf3",
+    "name": "telefon",
+    "price": 499.99,
+    "picture": "/img/10.jpeg",
+    "description": "Veniam deserunt laborum dolor do exercitation ut deserunt. Laborum eiusmod ut aute nisi veniam. Excepteur et excepteur ullamco commodo ut quis. Duis do reprehenderit id eu qui tempor",
+    "inMagazine": 9,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "zxdd4454gbftg565hgbvz3246bzx2",
+    "name": "telefon",
+    "price": 699.99,
+    "picture": "/img/11.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 13,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "009oksai983hdsxknhj7t2873nba",
+    "name": "pierścionek",
+    "price": 189.99,
+    "picture": "/img/12.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 5,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "f45656hu789kjjjjre5j7t2873nba",
+    "name": "pierścionek",
+    "price": 149.99,
+    "picture": "/img/13.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 7,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "f456345tghyu89olkj763fnm76th",
+    "name": "czapka",
+    "price": 49.99,
+    "picture": "/img/14.jpeg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 17,
+    "sold": 0,
+    "count": 0
+  },
+  {
+    "id": "kmjsa8d8234yjsdn943914435df",
+    "name": "buty",
+    "price": 129.99,
+    "picture": "/img/15.jpg",
+    "description": "Labore voluptate velit adipisicing magna amet consequat elit aliquip mollit. Dolor aliquip labore nisi adipisicing nisi amet sint. Non ea nostrud amet exercitation anim esse dolor.",
+    "inMagazine": 17,
+    "sold": 0,
+    "count": 0
+  }
+]
